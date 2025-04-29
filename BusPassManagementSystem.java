@@ -16,7 +16,7 @@ import java.io.File;
 public class Demo {
     private static final String DB_URL = "jdbc:mysql://localhost:3306/buspass";
     private static final String USER = "root";
-    private static final String PASS = "2002600688@Kt";
+    private static final String PASS = "enter your db password here";
 
     public static void main(String[] args) {
         try {
